@@ -10,6 +10,7 @@ Olá, Eu sou Emanoella e estou estudando sobre Python e GitHub.
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
 ![Power Bi](https://img.shields.io/badge/PowerBi-000?style=for-the-badge&logo=powerbi)
 ![JavaScript](https://img.shields.io/badge/JavaScrip-000?style=for-the-badge&logo=JavaScript)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanoellavaldevino&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
