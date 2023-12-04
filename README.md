@@ -1,5 +1,5 @@
 # Emanoella Valdevino
-Olá, Eu sou Emanoella e sou estudante de Ciência de Dados na Universidade Estácio.
+Olá, eu sou estudante de Ciência de Dados na Universidade Estácio.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/emanoella-valdevino/)
