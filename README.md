@@ -1,5 +1,5 @@
 # Emanoella Valdevino
-Olá, Eu sou Emanoella e estou estudando sobre Python e GitHub.
+Olá, Eu sou Emanoella e sou estudante de Ciência de Dados na Universidade Estácio.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/emanoella-valdevino/)
@@ -11,7 +11,7 @@ Olá, Eu sou Emanoella e estou estudando sobre Python e GitHub.
 ![Power Bi](https://img.shields.io/badge/PowerBi-000?style=for-the-badge&logo=powerbi)
 ![JavaScript](https://img.shields.io/badge/JavaScrip-000?style=for-the-badge&logo=JavaScript)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
-![Html](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html)
+![Html](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=Html)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS)
 
 ## GitHub Stats
